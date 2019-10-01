@@ -43,6 +43,21 @@ Tài khoản kết nối vào raspberry
 ## Thiết lập wifi cho hệ thống hass
 [Quay về mục lục](#mục-lục)
 
+### Bước 1
+- Phát wifi mặc định với tên wifi và mật khẩu (có thể dùng chức năng phát wifi trên điện thoại có hỗ trợ).
+
+```
+  Tên wifi (SSID): “Pyralink Lab”
+  Mật khẩu (PSK): “20171025”
+```
+
+-	Khởi động thiết bị và chờ đèn báo thiết bị đã sẵn sàng.
+-	Kết nối Laptop chung với wifi mặc định mà thiết bị đang kết nối đến.
+-	Có thể mở cmd và ping kiểm tra thiết bị đã được kết nối hay chưa.
+  o	Mở cmd (Command Prompt)
+  o	Nhập “ping icar.local” và “enter”
+-	Kết quả nếu thiết bị đã kết nối là địa chỉ IP của thiết bị (IP V4 hoặc V6)
+
 
 ## Cài đặt python và ESPHome
 [Quay về mục lục](#mục-lục)
