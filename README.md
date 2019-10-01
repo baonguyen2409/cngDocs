@@ -7,4 +7,51 @@ Mục lục
 3. [Thiết lập wifi cho ESP32]
 4. [Thêm thông tin mạch chuyển nguồn trên HASS]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # thiet lap wifi cho he thong hass
