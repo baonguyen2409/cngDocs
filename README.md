@@ -13,12 +13,12 @@ Hướng dẫn thiết lập mạch chuyển nguồn và hệ thống hass
 [5. Thêm thông tin mạch chuyển nguồn trên HASS](#thêm-thông-tin-mạch-chuyển-nguồn-trên-hass)
 
 ## Các thông tin được thiết lập mặc định
-[Quay về mục lục](#muc-luc)
+[Quay về mục lục](#mục-lục)
 ## Thiết lập wifi cho hệ thống hass
-[Quay về mục lục](#muc-luc)
+[Quay về mục lục](#mục-lục)
 ## Cài đặt python và ESPHome
-[Quay về mục lục](#muc-luc)
+[Quay về mục lục](#mục-lục)
 ## Thiết lập wifi cho ESP32
-[Quay về mục lục](#muc-luc)
+[Quay về mục lục](#mục-lục)
 ## Thêm thông tin mạch chuyển nguồn trên HASS
-[Quay về mục lục](#muc-luc)
+[Quay về mục lục](#mục-lục)
