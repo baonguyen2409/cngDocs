@@ -36,6 +36,10 @@ Tài khoản kết nối vào raspberry
   password: "tamdat0801"
 ```
 
+Đỉa chỉ giao diện web của hệ thống hass (phải kết nối chung mạng)
+
+```icar.local:8123``` hoặc ```icar.local:8124```
+
 ## Thiết lập wifi cho hệ thống hass
 [Quay về mục lục](#mục-lục)
 
