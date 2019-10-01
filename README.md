@@ -14,11 +14,41 @@ Hướng dẫn thiết lập mạch chuyển nguồn và hệ thống hass
 
 ## Các thông tin được thiết lập mặc định
 [Quay về mục lục](#mục-lục)
+
+wifi mặc định trên mạch chuyển nguồn và hass
+
+```
+  Tên wifi (ssid): "Pyralink Lab"
+  Mật khẩu (password/psk): "20171025"
+```
+
+Tài khoản admin hệ thống hass
+
+```
+  user: "yasuo"
+  password: "tamdat0801"
+```
+
+Tài khoản kết nối vào raspberry 
+
+```
+  user: "pi"
+  password: "tamdat0801"
+```
+
 ## Thiết lập wifi cho hệ thống hass
 [Quay về mục lục](#mục-lục)
+
+
 ## Cài đặt python và ESPHome
 [Quay về mục lục](#mục-lục)
+
+
 ## Thiết lập wifi cho ESP32
 [Quay về mục lục](#mục-lục)
+
+
 ## Thêm thông tin mạch chuyển nguồn trên HASS
 [Quay về mục lục](#mục-lục)
+
+
