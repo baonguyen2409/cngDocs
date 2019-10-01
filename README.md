@@ -54,8 +54,7 @@ Tài khoản kết nối vào raspberry
 -	Khởi động thiết bị và chờ đèn báo thiết bị đã sẵn sàng.
 -	Kết nối Laptop chung với wifi mặc định mà thiết bị đang kết nối đến.
 -	Có thể mở cmd và ping kiểm tra thiết bị đã được kết nối hay chưa.
-  + Mở cmd (Command Prompt)
-  + Nhập lệnh ```ping icar.local``` và enter
+- Nhập lệnh ```ping icar.local``` và enter
 -	Kết quả nếu thiết bị đã kết nối là địa chỉ IP của thiết bị (IP V4 hoặc V6)
 
 ## Cài đặt python và ESPHome
