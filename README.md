@@ -6,52 +6,51 @@ Mục lục
 2. [Cài đặt python 2.7 và ESPHome]
 3. [Thiết lập wifi cho ESP32]
 4. [Thêm thông tin mạch chuyển nguồn trên HASS]
+ádasdasd
 
+a
 
+sd
 
+a
 
+sd
 
+ád
 
+a
 
+sd
 
+á
 
+da
 
+sd
 
+a
 
+sd
 
+á
 
+d
 
+á
 
+d
 
+ád
 
+á
 
+d
 
+á
 
+d
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+á
 
 
 # thiet lap wifi cho he thong hass
